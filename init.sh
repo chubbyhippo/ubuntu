@@ -10,10 +10,10 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/main/apt.sh | /usr/
 curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/main/snap.sh | /usr/bin/env sh
 
 # mise
-curl -s https://raw.githubusercontent.com/chubbyhippo/mise/main/install-bash.sh | /usr/bin/env sh
+curl -s https://raw.githubusercontent.com/chubbyhippo/mise/main/install-bash.sh | /usr/bin/env bash
 
 # rustup
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
 
 # starship
-curl -s https://raw.githubusercontent.com/chubbyhippo/starship/main/install-bash.sh | /usr/bin/env sh 
+curl -s https://raw.githubusercontent.com/chubbyhippo/starship/main/install-bash.sh | /usr/bin/env bash
