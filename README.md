@@ -19,7 +19,10 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/main/snap.sh | /usr
 wsl --install
 ```
 ```
-wsl --unregister Ubuntu
+wsl --set-default ubuntu
+```
+```
+wsl --unregister ubuntu
 ```
 ```
 wsl --list
