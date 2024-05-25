@@ -11,3 +11,6 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/main/snap.sh | /usr
 
 # mise
 curl -s https://raw.githubusercontent.com/chubbyhippo/mise/main/install-bash.sh | /usr/bin/env sh
+
+# rustup
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
