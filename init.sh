@@ -10,4 +10,4 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/main/apt.sh | /usr/
 curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/main/snap.sh | /usr/bin/env sh
 
 # mise
-curl -s https://raw.githubusercontent.com/chubbyhippo/mise/main/install.sh | /usr/bin/env sh
+curl -s https://raw.githubusercontent.com/chubbyhippo/mise/main/install-bash.sh | /usr/bin/env sh
