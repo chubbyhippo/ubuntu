@@ -14,3 +14,13 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/main/apt.sh | /usr/
 ```
 curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/main/snap.sh | /usr/bin/env sh
 ```
+# wsl
+```
+wsl --install
+```
+```
+wsl --unregister Ubuntu
+```
+```
+wsl --list
+```
