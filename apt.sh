@@ -4,3 +4,4 @@ sudo apt install unzip -y
 sudo apt install cmake -y
 sudo apt install ripgrep -y
 sudo apt install zlib1g-dev -y
+sudo apt install libsfml-dev -y
