@@ -27,3 +27,7 @@ wsl --unregister ubuntu
 ```
 wsl --list
 ```
+## init
+```
+curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/main/init-wsl.sh | /usr/bin/env sh
+```
