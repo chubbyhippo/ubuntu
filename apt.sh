@@ -6,3 +6,4 @@ sudo apt install ripgrep -y
 sudo apt install zlib1g-dev -y
 sudo apt install libsfml-dev -y
 sudo apt install libgccjit0 -y
+sudo apt install libgccjit-11-dev -y
