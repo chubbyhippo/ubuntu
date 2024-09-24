@@ -25,6 +25,9 @@ wsl --set-default ubuntu
 wsl --unregister ubuntu
 ```
 ```
+wsl --uninstall ubuntu
+```
+```
 wsl --list
 ```
 ## init wsl
