@@ -20,3 +20,6 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/starship/refs/heads/main/i
 
 # .bashrc
 [ -f ~/.bashrc ] && curl https://raw.githubusercontent.com/chubbyhippo/.bashrc/refs/heads/main/.bashrc >> ~/.bashrc || curl https://raw.githubusercontent.com/chubbyhippo/.bashrc/refs/heads/main/.bashrc -o ~/.bashrc
+
+# docker
+curl -s https://raw.githubusercontent.com/chubbyhippo/ubuntu/refs/heads/main/install-docker.sh | /usr/bin/env sh 
